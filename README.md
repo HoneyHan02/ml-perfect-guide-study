@@ -1,21 +1,21 @@
-# Python Machine Learning Perfect Guide Study
+# ML Perfect Guide Study
 
-This repository contains my study notes and code implementations while learning from the book **"Python Machine Learning Perfect Guide"**.  
-The goal of this repository is to organize key machine learning concepts and practice implementing them with Python.
+This repository contains my study notes and practice code while learning machine learning with Python.
 
-## Contents
+The notebooks are based on concepts from the book **"Python Machine Learning Perfect Guide"**, but they are organized according to my own weekly study progress.
 
-The repository is organized by topic and chapter.
+## Structure
 
-- Numpy and basic data handling
-- Pandas for data analysis
-- Data preprocessing
-- Supervised learning
-- Model evaluation and validation
-- Ensemble learning
-- Clustering and unsupervised learning
+The notebooks are organized by week.
 
-Each section contains example code and experiments based on the concepts from the book.
+ml-perfect-guide-study  
+├── week01  
+├── week02  
+├── week03  
+├── week04  
+└── README.md  
+
+Each folder contains Jupyter notebooks with practice code, experiments, and notes from my machine learning study.
 
 ## Environment
 
@@ -23,13 +23,15 @@ Python
 NumPy  
 Pandas  
 Scikit-learn  
-Matplotlib
+Matplotlib  
+Jupyter Notebook  
 
-## Purpose
+## Weekly Progress
 
-- Strengthen understanding of machine learning fundamentals  
-- Practice implementing ML algorithms using Python  
-- Build a structured record of my ML learning journey
+- Week 01 – Python / NumPy basics  
+- Week 02 – Pandas and exploratory data analysis  
+- Week 03 – Data preprocessing  
+- Week 04 – Model training and evaluation  
 
 ## Reference
 
